@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iosfwd": "cpp",
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "xiosbase": "cpp",
+        "chrono": "cpp",
+        "cmath": "cpp"
+    }
+}
